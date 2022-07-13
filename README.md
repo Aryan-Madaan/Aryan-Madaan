@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aryan-Madaan
-- 👀 I’m interested in Web Development, Competitive Coding.
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in App Dev, Data Science.
+- 🌱 I’m currently learning App Development using Flutter.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/aryan-madaan-a42716212
 
